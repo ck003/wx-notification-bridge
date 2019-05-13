@@ -1,0 +1,14 @@
+server:
+  port: 7878
+
+wechat:
+  token:
+  encodingAESKey:
+  corpId:
+
+mqtt:
+  username:
+  password:
+  url:
+  topic:
+  clientId:
